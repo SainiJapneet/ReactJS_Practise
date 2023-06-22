@@ -1,6 +1,6 @@
 
 import './App.css'
-import Profile from './components/Profile/Profile'
+import Profile from './components/Profile/profile'
 
 // function Greetings(props) {
 
